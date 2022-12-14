@@ -2,8 +2,8 @@ REM Title: CONCEPTTEXT ASCII
 REM Author:	OKEJFINE
 REM Description: Opens Notepad and types out the ASCII art
 REM Notes: When done, payload causes screen to scroll to top and bottom
-REM Target:	Windows but fairly easily modified to work on any OS with a text editor
-REM Version:	1.2
+REM Target:	Windows
+REM Version:	1.0
 REM Category:	Prank
 REM Source: https://github.com/,,,
 DELAY 2000
